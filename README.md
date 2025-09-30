@@ -2,6 +2,8 @@
 
 This project is a **Python-based Amazon price tracker** that scrapes product details (title and price) from locally saved Amazon product pages (`.txt` or `.html` files). It exports the results into **CSV/Excel files**, runs on a **daily schedule**, and can even **send email reports**.
 
+🔗 **[View Data Whisperer Funny Science Analyst Software Engineer T-Shirt](https://www.amazon.com/Data-Whisperer-Funny-Science-Software/dp/B07L85PM3K/ref=sr_1_43?crid=15UVVSN239FDK&dib=eyJ2IjoiMSJ9.zTJ7b_RGZJyx9vSA5hv059bJeEtarnmm2ASvXooJ7b7MBdJLeStf2pOVVNq59z1OZr6xQYIi-3zJYDOvKms0CBCdmPKHwz9SODAqXYMRH9YHEjlTocQan-ctGHraK-8v7zJTZsLFnuFKJu1so-ec_1SyzeHOLfI8rmWlMJYlGUNO3Tyo9bhFRVkf1tPAogfdeia87RTIcXKmI7Ge5nBmt7YRNZDq4bIERGoEQB9KR-f2fD2B2gWLXQjsDFHEefhW3HYpdnDTAaDGEbW9uRYA6gZSjwS4pQK-n-rR2K_Ibmg.1JEw1LhRonoBsda8l_D38GzppAEGOh-rzohMUJ5GVag&dib_tag=se&keywords=data+funny&qid=1759000516&sprefix=data+funny+%2Caps%2C117&sr=8-43)
+
 ---
 
 ## 📂 Project Structure
